@@ -1,6 +1,6 @@
 # JobBeacon: Curated IT Job Alerts on the Edge
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/syam12345678/job-app-20250930-131345)
 
 JobBeacon is a serverless, edge-native application designed to provide developers and IT professionals with timely, filtered job alerts. It aggregates job listings from various public APIs and RSS feeds, filters them based on user-defined preferences (keywords, role, location), and delivers notifications for new, relevant opportunities. The entire application runs on Cloudflare's serverless stack, ensuring high performance, scalability, and security. The frontend is a visually stunning, minimalist interface for managing subscriptions and browsing the latest job listings, while the backend worker handles aggregation, filtering, and storage using a Durable Object.
 
@@ -125,4 +125,4 @@ This project is configured for one-command deployment to Cloudflare Workers.
 
 Alternatively, deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/syam12345678/job-app-20250930-131345)
